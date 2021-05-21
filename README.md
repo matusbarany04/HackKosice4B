@@ -6,9 +6,9 @@ SUDO is bLoAt
 
 ### Team members
 
-- Teammate 1, School
-- Teammate 2, School
-- Teammate 3, School
+ - Matúš Bárány, Stredná priemyselná škola elektrotechnická Košice Komenského 44
+
+ - Lukáš Randuška, Stredná priemyselná škola elektrotechnická Košice Komenského 44
 
 ## Description
 
